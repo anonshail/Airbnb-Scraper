@@ -25,12 +25,12 @@ specific data. (This change can easily be made if required)
 &emsp;* Link to listing. This would basically just be a concatenation of
   ‘https://www.airbnb.com/rooms/’ with the Airbnb ID. (This change can easily be
   made if required)
-&emsp;* Description (This change can easily be made if required)
-&emsp;* Picture URL (This change can easily be made if required)
-&emsp;* Host ID (This change can easily be made if required)
-&emsp;* Host URL (This change can easily be made if required)
-&emsp;* Is host super host (boolean) (This change can easily be made if required)
-&emsp;* Roomtype (This change can easily be made if required)
-&emsp;* Bedroom data (This change can easily be made if required)
+* Description (This change can easily be made if required)
+* Picture URL (This change can easily be made if required)
+* Host ID (This change can easily be made if required)
+* Host URL (This change can easily be made if required)
+* Is host super host (boolean) (This change can easily be made if required)
+* Roomtype (This change can easily be made if required)
+* Bedroom data (This change can easily be made if required)
 
 4) Chaining multiple coordinate “boxes” to allow for more control over the area scraped
