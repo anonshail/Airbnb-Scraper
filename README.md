@@ -22,15 +22,15 @@ any assumptions. (This change can easily be made if required)
 2) Allow the user to specify the latitude and longitude constraints so that the user get’s
 specific data. (This change can easily be made if required)
 3) Include more data in the CSV such as (but not limited to) the following:
-  a) Link to listing. This would basically just be a concatenation of
+  * Link to listing. This would basically just be a concatenation of
   ‘https://www.airbnb.com/rooms/’ with the Airbnb ID. (This change can easily be
   made if required)
-  b) Description (This change can easily be made if required)
-  c) Picture URL (This change can easily be made if required)
-  d) Host ID (This change can easily be made if required)
-  e) Host URL (This change can easily be made if required)
-  f) Is host super host (boolean) (This change can easily be made if required)
-  g) Roomtype (This change can easily be made if required)
-  h) Bedroom data (This change can easily be made if required)
+  * Description (This change can easily be made if required)
+  * Picture URL (This change can easily be made if required)
+  * Host ID (This change can easily be made if required)
+  * Host URL (This change can easily be made if required)
+  * Is host super host (boolean) (This change can easily be made if required)
+  * Roomtype (This change can easily be made if required)
+  * Bedroom data (This change can easily be made if required)
 
 4) Chaining multiple coordinate “boxes” to allow for more control over the area scraped
